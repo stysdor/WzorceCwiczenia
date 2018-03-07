@@ -12,7 +12,10 @@ public class KaczkiTester {
 		model.wykonajLatanie();
 		model.wykonajKwakanie();
 		model.ustawLatanieInterface(new LatamZNapedemRakietowym());
-		 model.wykonajLatanie();
+		model.wykonajLatanie();
+		 
+		model.wykonajLatanie();
+		model.wykonajKwakanie();
 
 	}
 
